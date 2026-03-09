@@ -37,6 +37,8 @@ Matplotlib
 Seaborn
 
 This project finally developed a machine learning model which will predict the rental prices of Airbnb by using the characteristics like room type, amenities and host information. After following a systematic data science process such as data preprocessing, feature engineering and testing the multiple regression models, gradient boosting model produced best performance which archived an R2 of 0.55 variation. The results show that machine learning will identify the patterns and supports the data driven decisions which helps the Airbnb Hosts to set the listing prices.
+
+
 How to Run the Project
 
 To run this project on your local system, follow these steps:
@@ -45,14 +47,12 @@ To run this project on your local system, follow these steps:
 
 git clone https://github.com/harideep19/Data-science-practicum-1.git
 
-2. Go to the project folder
-
-Airbnb rental prices
+2. open Airbnb prices file
 
 3. Install required libraries
 
-pip install pandas numpy scikit-learn matplotlib seaborn jupyter
+pip install pandas numpy scikit-learn matplotlib seaborn 
 
-4. Open the notebook file and run all cells to see preprocessing, model training, and results.
+4. Run the  all cells to see preprocessing, model training, and results.
 
 
